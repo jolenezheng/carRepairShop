@@ -1,0 +1,19 @@
+Brake Service
+$400.00
+1.5
+
+Oil Change
+$50
+0.5
+
+Transmission Replacement
+$4500
+6.0
+
+Tire Rotation
+$500
+2.5
+
+Suspension & Alignment
+$850
+4.0
